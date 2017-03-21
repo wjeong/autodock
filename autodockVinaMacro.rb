@@ -2,16 +2,16 @@
 
 puts "
 ####################  AUTODOCK VINA MACRO  #####################
-#                                                              #
-# FOLLOW BELOW STEPS                                           #
-#                                                              #
-# 1. VINA EXECUTIVE FILE MUST BELONG AT '..\\desktop\\autodock\\' #
-# 2. ALL PDBQT FILES SHOULD BE IN THE SAME LOCATION            #
-# 3. THIS RUBY EXECUTIVE FILE SHOULD BE LOCATIDED              # 
-#    IN THE SAME DIRECTORY WITH PDBQT                          #
-# 4. IF YOU DO NOT FOLLOW ABOVE INDICATIONS,                   # 
-#    THE RESULTS WILL NOT BE GENERATED OR PROPER               #
-#                                                              #
+#                                                         
+# FOLLOW BELOW STEPS              
+#                                                         
+# 1. VINA EXECUTIVE FILE MUST BELONG AT '..\\desktop\\autodock\\' 
+# 2. ALL PDBQT FILES SHOULD BE IN THE SAME LOCATION
+# 3. THIS RUBY EXECUTIVE FILE SHOULD BE LOCATIDED
+#    IN THE SAME DIRECTORY WITH PDBQT
+# 4. IF YOU DO NOT FOLLOW ABOVE INDICATIONS,
+#    THE RESULTS WILL NOT BE GENERATED OR PROPER
+#
 ################################################################
 
 "
